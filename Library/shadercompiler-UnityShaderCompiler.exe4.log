@@ -1,0 +1,4 @@
+Base path: C:/Dev/unity-spare/build/WindowsEditor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=3273 outsize=1913 ok=1
