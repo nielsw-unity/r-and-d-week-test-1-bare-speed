@@ -9,7 +9,7 @@ public class CubeSpawner : MonoBehaviour {
 
 	void Start () 
 	{
-		const int gridSize = 20;
+		const int gridSize = 24;
 		const float spacing = 0.2f;
 
 		float cubeSizeX = prefab.transform.localScale.x + spacing;
