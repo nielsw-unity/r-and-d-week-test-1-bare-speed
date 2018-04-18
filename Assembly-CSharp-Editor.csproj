@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7C0F8825-8272-2E62-9EB7-A4A01A24ADF3}</ProjectGuid>
+    <ProjectGuid>{C742F0E5-B605-5DF4-B415-80BD8DF7C8EC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -86,16 +86,16 @@
      <Compile Include="Assets\PostProcessing\Editor\Utils\FxStyles.cs" />
      <Compile Include="Assets\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Dev/unity-test-projects/r-and-d-week-test-1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Dev/unity-test-projects/r-and-d-week-test-1-bare-speed/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Dev/unity-test-projects/r-and-d-week-test-1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Dev/unity-test-projects/r-and-d-week-test-1-bare-speed/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Dev/unity-test-projects/r-and-d-week-test-1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Dev/unity-test-projects/r-and-d-week-test-1-bare-speed/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Dev/unity-test-projects/r-and-d-week-test-1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Dev/unity-test-projects/r-and-d-week-test-1-bare-speed/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Dev/unity-spare/build/WindowsEditor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -391,7 +391,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{E22B55F8-69A3-2FD4-544F-725F2621AAF2}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{F4B2395B-FC60-FE78-E630-D2A4FE6D785B}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
